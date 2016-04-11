@@ -1,0 +1,2 @@
+This is the first draft of TEA
+TEA stands for The Epigenomics analysis for Arabidopsis thaliana.
