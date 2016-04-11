@@ -22,16 +22,28 @@ Gene profile is available. <check gdetail.php and detail.php>
 
 * DMGs
 
-Differentially methylated genes (DMGs) is select and filtered
+Differentially methylated genes (DMGs) is selected and filtered through a flexible cutoffs and patterns. The selected DMGs is reported and plot on Arabidopsis genome. 
 
 ? statistical testing
 
 * mC threshold
 
+DMGs are selected out by a cutoff value on the methylation score. 
+
 * gene list enrichment
+
+KEGG, GO gene list enrichment
 
 #### Visulization: Venn Diagram, Heatmap, KEGG Pathway, Circos plot, BioDalliance Browser, boxplot
 
+TEA provide users to visualize their own data in venn diagram, heatmap, etc. Users can generate the gene lists through above DMGs selecting criteria.
+
+* venn diagram
+* heatmap
+* KEGG pathway
+* circos plot
+* biodalliance browser
+* boxplot
 
 #### Discussion
 
