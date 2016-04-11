@@ -5,7 +5,7 @@ This is the first draft of TEA
 #### Abstract
 #### Introduction/Background 
 
-We proposed a platform for plant methylation analysis.
+We proposed a platform for plant methylation analysis. Genomic DNA is treated with sodium bisulfite to convert non-methylated cytosines to uracil while methylated cytosines remain unchanged. Coupled with high-throughput platforms such as microarrays or next generation sequencing (NGS) to allow massively parallel whole genome-wise methylation analysis.
 
 #### Implementation: Ensembl Database Prepoccess step epimolas.jar-mtable
 
